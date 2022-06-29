@@ -1,0 +1,11 @@
+Salad
+tomato 9,5
+cucumber 5
+soul 3
+
+Soup
+meat 5
+potato 4
+carrot 3
+cabbage 2
+

@@ -1,0 +1,16 @@
+D:\t9\t9\bin\Debug\net5.0\t9.exe
+D:\t9\t9\bin\Debug\net5.0\t9.deps.json
+D:\t9\t9\bin\Debug\net5.0\t9.runtimeconfig.json
+D:\t9\t9\bin\Debug\net5.0\t9.runtimeconfig.dev.json
+D:\t9\t9\bin\Debug\net5.0\t9.dll
+D:\t9\t9\bin\Debug\net5.0\t9.pdb
+D:\t9\t9\obj\Debug\net5.0\t9.csproj.AssemblyReference.cache
+D:\t9\t9\obj\Debug\net5.0\t9.GeneratedMSBuildEditorConfig.editorconfig
+D:\t9\t9\obj\Debug\net5.0\t9.AssemblyInfoInputs.cache
+D:\t9\t9\obj\Debug\net5.0\t9.AssemblyInfo.cs
+D:\t9\t9\obj\Debug\net5.0\t9.csproj.CoreCompileInputs.cache
+D:\t9\t9\obj\Debug\net5.0\t9.dll
+D:\t9\t9\obj\Debug\net5.0\refint\t9.dll
+D:\t9\t9\obj\Debug\net5.0\t9.pdb
+D:\t9\t9\obj\Debug\net5.0\t9.genruntimeconfig.cache
+D:\t9\t9\obj\Debug\net5.0\ref\t9.dll

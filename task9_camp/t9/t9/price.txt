@@ -1,0 +1,7 @@
+tomato 26
+cucumber 17
+soul 2
+meat 178
+potato 15
+carrot 20
+cabbage 16
